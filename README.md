@@ -33,3 +33,4 @@ Run the script:
 
 📷 Screenshot
 
+<img width="481" height="122" alt="Image" src="https://github.com/user-attachments/assets/b72d5f0e-43c7-4db3-a7c7-e68242a33569" />
